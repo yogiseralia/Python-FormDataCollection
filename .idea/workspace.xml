@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7a52566-532c-4ab5-bf11-aaee6fbaeb66" name="Default Changelist" comment="" />
+    <list default="true" id="a7a52566-532c-4ab5-bf11-aaee6fbaeb66" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/formcollect/templates/data_collection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formcollect/formcollect/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/formcollect/formcollect/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +14,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\project\python\FormDataCollection\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1V1bV1weeAsHoRNoFibCZyW8Psd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,12 +63,28 @@
       <option name="presentableId" value="Default" />
       <updated>1576423568138</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1576429659204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576429659204</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1576429636920">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1576429690357">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576429636920" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1576429690357" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1576429694649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1576429694649" />
   </component>
 </project>
